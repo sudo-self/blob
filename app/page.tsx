@@ -9,24 +9,24 @@ export default function Home() {
     <main className="relative flex min-h-screen flex-col items-center justify-center">
       <Toaster />
       <Link
-        href="https://iframe.JesseJesse.com"
+        href="https://dash.cloudflare.com/9bcbdd98a5e8c11203c93aadb1d04ace/r2/default/buckets/my-bucket"
         className="group mt-20 sm:mt-0 rounded-full flex space-x-1 bg-white/30 shadow-sm ring-1 ring-gray-900/5 text-gray-600 text-sm font-medium px-10 py-2 hover:shadow-lg active:shadow-sm transition-all"
       >
-        <p>Generate iFrame</p>
+        <p>Cloudflare Bucket</p>
         <ExpandingArrow />
       </Link>
       <h1 className="pt-4 pb-8 bg-gradient-to-br from-black via-[#171717] to-[#575757] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl">
-        blob
+        image blob
       </h1>
       <div className="bg-white/30 p-12 shadow-xl ring-1 ring-gray-900/5 rounded-lg backdrop-blur-lg max-w-xl mx-auto w-full">
         <Uploader />
       </div>
       <p className="font-light text-gray-600 w-full max-w-lg text-center mt-6">
         <Link
-          href="https://vercel.com/blob"
+          href="https://iframe.jessejesse/"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
         >
-          blob.JesseJesse.com
+          iframe.JesseJesse.com
         </Link>{' '}
        Built with&nbsp;&#9829;{' '}
         <Link
@@ -48,7 +48,7 @@ export default function Home() {
           />
         </Link>
         <Link
-          href="https://github.com/vercel/examples/tree/main/storage/blob-starter"
+          href="https://github.com/sudo-self/blob"
           className="flex items-center space-x-2"
         >
           <Image
@@ -58,7 +58,7 @@ export default function Home() {
             height={24}
             priority
           />
-          <p className="font-light">Source</p>
+          <p className="font-light">source code</p>
         </Link>
       </div>
     </main>
