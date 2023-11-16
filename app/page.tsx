@@ -16,7 +16,7 @@ export default function Home() {
         <ExpandingArrow />
       </Link>
       <h1 className="pt-4 pb-8 bg-gradient-to-br from-black via-[#171717] to-[#575757] bg-clip-text text-center text-4xl font-medium tracking-tight text-transparent md:text-7xl">
-        Blob on Vercel
+        blob.JesseJesse.com
       </h1>
       <div className="bg-white/30 p-12 shadow-xl ring-1 ring-gray-900/5 rounded-lg backdrop-blur-lg max-w-xl mx-auto w-full">
         <Uploader />
@@ -26,7 +26,7 @@ export default function Home() {
           href="https://vercel.com/blob"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
         >
-          Vercel Blob
+          blob.JesseJesse.com
         </Link>{' '}
         demo. Built with{' '}
         <Link
