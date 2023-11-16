@@ -28,7 +28,7 @@ export default function Home() {
         >
           blob.JesseJesse.com
         </Link>{' '}
-        demo. Built with{' '}
+       Built with&nbsp;&#9829;{' '}
         <Link
           href="https://nextjs.org/docs"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
