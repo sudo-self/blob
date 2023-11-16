@@ -30,10 +30,10 @@ export default function Home() {
         </Link>{' '}
        Built with&nbsp;&#9829;{' '}
         <Link
-          href="https://nextjs.org/docs"
+          href="https://code.jessejesse.com"
           className="font-medium underline underline-offset-4 hover:text-black transition-colors"
         >
-          Next.js App Router
+         code with AI
         </Link>
         .
       </p>
